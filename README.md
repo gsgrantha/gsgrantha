@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gsgrantha" alt="gsgrantha" /></a> </p>
 
-- 🔭 I’m currently studying on **BANGLADESH DIGITAL UNIVERSITY**
+- 🔭 I’m currently studying on **GAZIPUR DIGITAL UNIVERSITY, BANGLADESH**
 
 - 🌱 I’m currently learning **DSA, NETWORKING, CYBER SECURITY**
 
@@ -26,7 +26,7 @@
 
 <br clear="both">
 
-<h2 align="left">My name is Grantha Saha and I'm a student of BANGLADESH DIGITAL UNIVERSITY in the department of DATA SCIENCE AND ENGINEERING from Bangladesh.</h2>
+<h2 align="left">My name is Grantha Saha and I'm a student of GAZPIUR DIGITAL UNIVERSITY in the department of DATA SCIENCE AND ENGINEERING from Bangladesh.</h2>
 
 ###
 
