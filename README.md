@@ -64,16 +64,21 @@
 
 ---
 
-## 🎯 Daily Motivation  
+## 🌟 🎯 Daily Motivation  
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
+  <i><font color="#32CD32">"Turn data into decisions, ideas into impact."</font></i>  
+  <br/>
+  <i><font color="#FFD700">"Every bug you fix is a lesson, every commit a step forward."</font></i>
+  <br/>
+  <i><font color="#FF4500">"Code with purpose, learn with passion, research with curiosity."</font></i>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gsgrantha&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/gsgrantha?style=for-the-badge&logo=github&color=green"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&font=Fira+Code" alt="Motivational Quote"/>
 </p>
+
+
 
 ---
 
