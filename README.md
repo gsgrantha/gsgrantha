@@ -24,6 +24,16 @@
 
 ---
 
+
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=gsgrantha&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</p>
+  <!-- GitHub Followers -->
+ <p align="center"> <img src="https://img.shields.io/github/followers/gsgrantha?style=for-the-badge&logo=github&color=green" alt="Followers"/>
+</p>
+
+
 ## 📊 GitHub Analytics  
 
 <p align="center">
