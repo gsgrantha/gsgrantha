@@ -7,11 +7,11 @@
 
 ## 🌟 About Me  
 
-🎓 **BSc in Data Science and Engineering**  
+🎓 **BSc in Data Science & Engineering**  
 🏫 **University of Frontier Technology, Bangladesh**  
 💡 Mission: <i><font color="#FF69B4">Harnessing Data</font>, <font color="#1E90FF">Shaping Tomorrow</font></i>  
-🚀 Passionate about <font color="#32CD32">Machine Learning</font>, <font color="#FFD700">Deep Learning</font>, <font color="#FF4500">Natural Language Processing</font>, <font color="#00CED1">Computer Vision</font>, and Research  
-📚 Exploring <font color="#FF69B4">Machine Learning</font>, <font color="#1E90FF">Cloud</font>, and <font color="#32CD32">Big Data</font>  
+🚀 Passionate about: <font color="#32CD32">Machine Learning</font>, <font color="#FFD700">Deep Learning</font>, <font color="#FF4500">NLP</font>, <font color="#00CED1">Computer Vision</font>, and Research  
+📚 Exploring: <font color="#FF69B4">AI/ML</font>, <font color="#1E90FF">Cloud</font>, and <font color="#32CD32">Big Data</font>  
 🔥 Fun Fact: I turn ☕ coffee into clean, efficient code  
 
 ---
@@ -24,21 +24,11 @@
 
 ---
 
-
-<p align="center">
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=gsgrantha&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-</p>
-  <!-- GitHub Followers -->
- <p align="center"> <img src="https://img.shields.io/github/followers/gsgrantha?style=for-the-badge&logo=github&color=green" alt="Followers"/>
-</p>
-
-
-## 📊 GitHub Analytics  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gsgrantha&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=FFD700&icon_color=32CD32&text_color=00FFFF" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=gsgrantha&theme=radical&hide_border=true&stroke=32CD32&dates=FFD700" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=gsgrantha&theme=radical&hide_border=true&stroke=32CD32&dates=FFD700" height="180"/>
 </p>
 
 <p align="center">
@@ -66,8 +56,12 @@
 ## 🔗 Connect with Me  
 
 <p align="center">
-  <a href="mailto:granthasaha.dse@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF69B4"/></a>
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=32CD32"/></a>
+  <a href="mailto:granthasaha.dse@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF69B4"/>
+  </a>
+  <a href="https://www.linkedin.com/in/granthasaha/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=32CD32"/>
+  </a>
   <a href="https://discord.com/users/YOUR_DISCORD_TAG">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
@@ -88,8 +82,6 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&font=Fira+Code" alt="Motivational Quote"/>
 </p>
-
-
 
 ---
 
