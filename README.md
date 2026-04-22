@@ -25,24 +25,19 @@
     <td width="38%" valign="center" align="center">
       <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="260" alt="coding gif"/>
     </td>
-    <!-- RIGHT — info badge cards -->
+    <!-- RIGHT — multiline live-typing animation (each line types out one by one, stacks up) -->
     <td width="62%" valign="center" align="left">
       <br/>
-      <img src="https://img.shields.io/badge/%F0%9F%8E%93%20DEGREE-BSc%20in%20Data%20Science%20%26%20Engineering-FF6B00?style=for-the-badge&labelColor=0D1117"/>
+      <!--
+        multiline=true  → lines accumulate (stack) instead of replacing each other
+        color=FF6B00,39FF14,...  → alternates orange / parrot-green per line
+        duration=2800   → time to type each line
+        pause=400       → pause before typing the next line
+        background=0D1117 → matches the dark profile background
+        separator=;     → each semicolon starts a new line
+      -->
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2800&pause=400&color=FF6B00,39FF14,FF6B00,39FF14,FF6B00,39FF14,FF6B00&background=0D1117&multiline=true&width=510&height=245&lines=%F0%9F%8E%93+Degree++++%3A+BSc+in+Data+Science+%26+Engineering;%F0%9F%8F%AB+University+%3A+University+Of+Frontier+Technology%2C+Bangladesh;%F0%9F%8C%8D+Location+++%3A+Bangladesh;%F0%9F%93%A7+Email++++++%3A+granthasaha.dse%40gmail.com;%F0%9F%94%AD+Exploring++%3A+AI%2FML+Research+%26+Cloud+Architecture;%F0%9F%92%A1+Mission++++%3A+Harnessing+Data%2C+Shaping+Tomorrow;%E2%98%95+Fun+Fact+++%3A+I+turn+%E2%98%95+coffee+into+clean+code" alt="Grantha Saha — Live Info"/>
       <br/><br/>
-      <img src="https://img.shields.io/badge/%F0%9F%8F%AB%20UNIVERSITY-Frontier%20Technology%2C%20Bangladesh-39FF14?style=for-the-badge&labelColor=0D1117&color=1a7a30"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/%F0%9F%8C%8D%20LOCATION-Bangladesh-FF6B00?style=for-the-badge&labelColor=0D1117"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/%F0%9F%93%A7%20EMAIL-granthasaha.dse%40gmail.com-39FF14?style=for-the-badge&labelColor=0D1117&color=1a7a30"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/%F0%9F%94%AD%20EXPLORING-AI%2FML%20Research%20%26%20Cloud%20Architecture-FF6B00?style=for-the-badge&labelColor=0D1117"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/%F0%9F%92%A1%20MISSION-Harnessing%20Data%2C%20Shaping%20Tomorrow-39FF14?style=for-the-badge&labelColor=0D1117&color=1a7a30"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/%E2%98%95%20FUN%20FACT-I%20turn%20coffee%20into%20clean%20code-FF6B00?style=for-the-badge&labelColor=0D1117"/>
-      <br/><br/>
-      <!-- Status pill badges -->
       <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-39FF14?style=flat-square&labelColor=0D1117"/>
       &nbsp;
       <img src="https://img.shields.io/badge/Focus-Data%20%26%20AI-FF6B00?style=flat-square&labelColor=0D1117"/>
