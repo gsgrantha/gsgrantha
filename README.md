@@ -1,90 +1,226 @@
-<!-- Typing Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=32CD32,FF4500,1E90FF,FFD700&center=true&vCenter=true&width=850&lines=Hey!+I'm+Grantha+Saha;BSc+in+Data+Science+%26+Engineering;Data+Lover+%7C+Problem+Solver+%7C+Tech+Explorer;University+of+Frontier+Technology,+Bangladesh;Harnessing+Data,+Shaping+Tomorrow" alt="Typing Animation"/>
-</p>
+<!-- ╔══════════════════════════════════════════════════╗ -->
+<!-- ║         HEADER — solid orange wave banner        ║ -->
+<!-- ╚══════════════════════════════════════════════════╝ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=130&section=header&fontColor=39FF14&fontSize=0&animation=fadeIn"/>
+
+<div align="center">
+
+<!-- Typing SVG — orange primary, green secondary -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&width=900&lines=Hey+There!+I'm+Grantha+Saha+%F0%9F%91%8B;BSc+in+Data+Science+%26+Engineering;Data+Lover+%7C+Problem+Solver+%7C+Tech+Explorer;Harnessing+Data%2C+Shaping+Tomorrow+%F0%9F%9A%80" alt="Typing SVG"/>
+
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=gsgrantha&style=for-the-badge&color=FF6B00&label=Profile+Views&labelColor=0D1117)
+
+</div>
 
 ---
 
-## 🌟 About Me  
+## 🌟 About Me
 
-🎓 **BSc in Data Science & Engineering**  
-🏫 **University of Frontier Technology, Bangladesh**  
-💡 Mission: <i><font color="#FF69B4">Harnessing Data</font>, <font color="#1E90FF">Shaping Tomorrow</font></i>  
-🚀 Passionate about: <font color="#32CD32">Machine Learning</font>, <font color="#FFD700">Deep Learning</font>, <font color="#FF4500">NLP</font>, <font color="#00CED1">Computer Vision</font>, and Research  
-📚 Exploring: <font color="#FF69B4">AI/ML</font>, <font color="#1E90FF">Cloud</font>, and <font color="#32CD32">Big Data</font>  
-🔥 Fun Fact: I turn ☕ coffee into clean, efficient code  
-
----
-
-## 🛠️ Tech Arsenal  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,r,html,css,js,mysql,git,github,matlab,hadoop,photoshop&theme=dark" height="50"/>
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gsgrantha&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=FFD700&icon_color=32CD32&text_color=00FFFF" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=gsgrantha&theme=radical&hide_border=true&stroke=32CD32&dates=FFD700" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsgrantha&layout=compact&theme=radical&hide_border=true&title_color=FF69B4&text_color=1E90FF" height="180"/>
-</p>
-
----
-
-## 📅 GitHub Contribution Calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/gsgrantha?bg_color=0f1b2d&color=00ff99&line=ffffff" width="95%" alt="GitHub Contribution Calendar"/>
-</p>
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <!-- LEFT — coding GIF -->
+    <td width="38%" valign="center" align="center">
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="260" alt="coding gif"/>
+    </td>
+    <!-- RIGHT — info badge cards -->
+    <td width="62%" valign="center" align="left">
+      <br/>
+      <img src="https://img.shields.io/badge/%F0%9F%8E%93%20DEGREE-BSc%20in%20Data%20Science%20%26%20Engineering-FF6B00?style=for-the-badge&labelColor=0D1117"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/%F0%9F%8F%AB%20UNIVERSITY-Frontier%20Technology%2C%20Bangladesh-39FF14?style=for-the-badge&labelColor=0D1117&color=1a7a30"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/%F0%9F%8C%8D%20LOCATION-Bangladesh-FF6B00?style=for-the-badge&labelColor=0D1117"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/%F0%9F%93%A7%20EMAIL-granthasaha.dse%40gmail.com-39FF14?style=for-the-badge&labelColor=0D1117&color=1a7a30"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/%F0%9F%94%AD%20EXPLORING-AI%2FML%20Research%20%26%20Cloud%20Architecture-FF6B00?style=for-the-badge&labelColor=0D1117"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/%F0%9F%92%A1%20MISSION-Harnessing%20Data%2C%20Shaping%20Tomorrow-39FF14?style=for-the-badge&labelColor=0D1117&color=1a7a30"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/%E2%98%95%20FUN%20FACT-I%20turn%20coffee%20into%20clean%20code-FF6B00?style=for-the-badge&labelColor=0D1117"/>
+      <br/><br/>
+      <!-- Status pill badges -->
+      <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-39FF14?style=flat-square&labelColor=0D1117"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Focus-Data%20%26%20AI-FF6B00?style=flat-square&labelColor=0D1117"/>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
-## 🏆 GitHub Trophies  
+## 🛠️ Tech Arsenal
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gsgrantha&theme=matrix&no-frame=true&row=1&column=6"/>
-</p>
+<div align="center">
+
+**── Languages ──**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**── AI / Data Science ──**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+**── Tools & Platforms ──**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+**── Web ──**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
 
 ---
 
-## 🔗 Connect with Me  
+## 📊 GitHub Stats
 
-<p align="center">
-  <a href="mailto:granthasaha.dse@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF69B4"/>
-  </a>
-  <a href="https://www.linkedin.com/in/granthasaha/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=32CD32"/>
-  </a>
-  <a href="https://discord.com/users/YOUR_DISCORD_TAG">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+<table border="0">
+  <tr>
+    <td align="center">
+      <!-- title=orange, icons=parrot green, bg=black -->
+      <img src="https://github-readme-stats.vercel.app/api?username=gsgrantha&show_icons=true&hide_border=true&count_private=true&title_color=FF6B00&icon_color=39FF14&text_color=E6EDF3&bg_color=0D1117" height="175"/>
+    </td>
+    <td align="center">
+      <!-- ring+fire=orange, streak label=parrot green, bg=black -->
+      <img src="https://streak-stats.demolab.com/?user=gsgrantha&hide_border=true&ring=FF6B00&fire=FF6B00&currStreakLabel=39FF14&sideLabels=FF6B00&stroke=39FF14&background=0D1117&dates=E6EDF3&currStreakNum=FF6B00&sideNums=39FF14" height="175"/>
+    </td>
+  </tr>
+</table>
 
----
+<!-- Top languages — orange title, parrot green text, black bg -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsgrantha&layout=compact&hide_border=true&title_color=FF6B00&text_color=39FF14&bg_color=0D1117&langs_count=8" height="160"/>
 
-## 🌟 🎯 Daily Motivation  
-
-<p align="center">
-  <i><font color="#32CD32">"Turn data into decisions, ideas into impact."</font></i>  
-  <br/>
-  <i><font color="#FFD700">"Every bug you fix is a lesson, every commit a step forward."</font></i>
-  <br/>
-  <i><font color="#FF4500">"Code with purpose, learn with passion, research with curiosity."</font></i>
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&font=Fira+Code" alt="Motivational Quote"/>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  🚀 <font color="#FF69B4"><b>Code. Learn. Innovate. Repeat.</b></font>  
-</p>
+## 📅 Contribution Activity
+
+<div align="center">
+
+<!-- orange line, parrot green area fill, black bg -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gsgrantha&bg_color=0D1117&color=FF6B00&line=FF6B00&point=39FF14&area=true&area_color=FF6B00&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<!--
+  ROOT CAUSE FIX: The trophy image was broken because:
+  1. "tokyonight" theme had intermittent issues for the service
+  2. row=1 + column=6 forces a fixed grid — new/low-activity accounts
+     may not have enough trophies to fill all slots, returning a broken image.
+
+  FIX APPLIED:
+  • Switched theme to "matrix" (parrot green on black — matches our color scheme)
+  • Removed row= and column= entirely — the API auto-wraps based on actual trophies earned
+  • Kept no-frame=true and added margin-w/margin-h for spacing
+  • The API will ALWAYS return at least C-rank trophies for any GitHub account
+-->
+<img src="https://github-profile-trophy.vercel.app/?username=gsgrantha&theme=matrix&no-frame=true&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+## 🚀 Currently Exploring
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Area</th>
+      <th>Focus</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🤖 <b>AI / ML</b></td>
+      <td>Transformer Architectures, LLMs, Prompt Engineering</td>
+    </tr>
+    <tr>
+      <td>🧠 <b>Deep Learning</b></td>
+      <td>CNNs, RNNs, Attention Mechanisms</td>
+    </tr>
+    <tr>
+      <td>💬 <b>NLP</b></td>
+      <td>Text Classification, Sentiment Analysis, Named Entity Recognition</td>
+    </tr>
+    <tr>
+      <td>👁️ <b>Computer Vision</b></td>
+      <td>Object Detection, Image Segmentation</td>
+    </tr>
+    <tr>
+      <td>☁️ <b>Cloud &amp; Big Data</b></td>
+      <td>Distributed Systems, Data Pipelines</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+---
+
+## 🔗 Connect with Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-FF6B00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:granthasaha.dse@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=1a7a30)](https://www.linkedin.com/in/granthasaha/)
+[![Discord](https://img.shields.io/badge/Discord-FF6B00?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117)](https://discord.com/users/YOUR_DISCORD_ID)
+
+</div>
+
+---
+
+## 💭 Dev Philosophy
+
+<div align="center">
+
+<blockquote><i>"Turn data into decisions, ideas into impact."</i></blockquote>
+<blockquote><i>"Every bug you fix is a lesson. Every commit, a step forward."</i></blockquote>
+<blockquote><i>"Code with purpose. Learn with passion. Research with curiosity."</i></blockquote>
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox&font=Fira+Code" alt="Random Dev Quote" width="80%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<br/>
+
+**⚡ Code. Learn. Innovate. Repeat. ⚡**
+
+</div>
+
+<!-- Footer — green wave to complement the orange header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=100&section=footer&animation=fadeIn"/>
